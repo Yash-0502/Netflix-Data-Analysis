@@ -1,0 +1,20 @@
+🎯 Business Problem: Content Discovery & User Engagement
+Challenge:
+Netflix has a massive and ever-growing library of content, making it increasingly difficult for users to find what they want to watch. Poor content discovery leads to decreased engagement and increases the risk of user churn, which directly impacts revenue and subscription retention.
+
+Business Question:
+How can Netflix improve the content discovery experience to help users find relevant shows and movies more easily, ultimately boosting engagement and reducing churn?
+
+💡 Solution: Interactive Content Discovery Dashboard
+This Tableau dashboard directly addresses the issue of content discovery by offering a clean, user-friendly, and highly interactive way to explore Netflix’s library.
+
+🔍 Key Features & Their Impact
+| Feature                       | Description                                                                                                     | Business Impact                                                                            |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Search Functionality**      | Users can search by movie or TV show name to quickly locate specific titles.                                    | Reduces friction in content discovery, saving time and improving user experience.          |
+| **Genre-Based Filtering**     | Users can filter content by genre to find shows or movies that match their interests.                           | Mimics personalized recommendations and encourages deeper content engagement.              |
+| **Detailed Metadata Display** | For each title, the dashboard shows rating, duration, genre, release date, added date, and a short description. | Helps users make faster viewing decisions by providing all essential details in one place. |
+| **Content Volume Insights**   | Displays total number of movies and TV shows available on the platform.                                         | Useful for analysts and stakeholders to understand content trends and growth over time.    |
+
+📊 Dashboard Link
+🔗 Click here to view the live Tableau Dashboard :- (https://public.tableau.com/app/profile/yashpal.chavda/viz/NetflixDataAnalytics_Yash/Dashboard1)
