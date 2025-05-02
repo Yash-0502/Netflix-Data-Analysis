@@ -265,19 +265,16 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+Dashboard Highlights:
+The Tableau dashboard lets users search for movies and TV shows by name or genre. For each title, it displays the rating, duration, genre, release date, added date, and a description. Users can also filter by genre to view a custom list, and see the total number of movies and TV shows released.
+👉 (https://public.tableau.com/app/profile/yashpal.chavda/viz/NetflixDataAnalytics_Yash/Dashboard1)
 
 
-## Author - Zero Analyst
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated and Join the Community
+## Author - Yashpal Chavda (Yash)
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
 
 Thank you for your support, and I look forward to connecting with you!
